@@ -30,8 +30,9 @@ plugins/
 # =========================================================
 # Logos originales (WhatsApp con espacios en el nombre).
 # Las versiones limpias están en public/logos/
+# Usamos slash inicial para NO ignorar public/logos/
 # =========================================================
-logos/
+/logos/
 
 # =========================================================
 # Logs
